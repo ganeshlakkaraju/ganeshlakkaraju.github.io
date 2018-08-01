@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+.playfair     {font-family: 'Playfair Display', serif;}
+
+.bdr     {border: 3px solid #4e4b4f; line-height: 40px;}
+
+.menu a     {color: #4e4b4f !important; font-size: 18px; font-weight: 400;}
+
+.faicon     {font-size: 24px !important;}

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+.playfair     {font-family: 'Playfair Display', serif; color: #4e4b4f;}
+
+.mull     {font-family: 'Playfair Display', serif;}
+
+.cbg        {background:rgba(0,0,0,0.3); left:0 !important; right:0 !important;	bottom:0 !important; }
+
+.cbg2         { background:rgba(0,0,0,0.3); position:relative; bottom: 46px ; color: #fff; padding: 4px 0px 4px 8px; }

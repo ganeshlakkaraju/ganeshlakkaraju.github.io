@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i');
+
 
 .playfair     {font-family: 'Playfair Display', serif;}
 
+.mull     {font-family: 'Playfair Display', serif; color: #7a7a7a;}
+
 .faicon     {font-size: 24px !important;}
+

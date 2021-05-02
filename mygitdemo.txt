@@ -1,0 +1,6 @@
+
+Hi this is my first git practice 
+my secon line 
+my third line
+
+:
